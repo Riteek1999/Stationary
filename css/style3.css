@@ -1,0 +1,107 @@
+@import"https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0%;
+    border: 10px;
+    background-color: #C5EEFF ;
+    overflow-x: hidden;
+    background-image: url('./11.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#pop{
+    height: 150px;
+    width: 500px;
+    position: fixed;
+    bottom: 50%;
+    right: 50%;
+    top: 35%;
+    left: 30%;
+    border: 2px solid;
+    padding: 10px;
+    background: #81D8FB;
+    color: navy;
+    border-radius: 6px;
+}
+#close{
+    right: 5;
+    top: 5;
+    float: right;
+}
+.oderplaced{
+    height: 500px;
+    width: 600px;
+    position: fixed;
+    bottom: 50%;
+    right: 50%;
+    top: 20%;
+    left: 35%;
+    color: navy;
+}
+.oderplaced h1{
+    font-size: 50px;
+    text-align: left;
+}
+#oderplacedimage{
+     height: 50%;
+     width: 45%;
+}
+#ok{
+    width: 60px;
+    position: absolute;
+    float: center;
+    left: 45%;
+    height: 27px;
+}
+@media screen and (max-width:500px){
+    #pop{
+        height: 150px;
+        width: 300px;
+        position: fixed;
+        bottom: 50%;
+        right: 50%;
+        top: 40%;
+        left: 10%;
+        border: 2px solid;
+        padding: 10px;
+        background: #81D8FB;
+        color: navy;
+        border-radius: 4px;
+    }
+    #close{
+        right: 4;
+        top: 4;
+        float: right;
+    }
+    #ok{
+        top: 4;
+        float: center;
+    }
+    .oderplaced{
+        height: 400px;
+        width: 500px;
+        position: fixed;
+        bottom: 50%;
+        right: 50%;
+        top: 30%;
+        left: 17%;
+        color: navy;
+    }
+    .oderplaced h1{
+        font-size: 40px;
+        text-align: left;
+    }
+    #oderplacedimage{
+         height: 30%;
+         width: 25%;
+         margin-left: 18%;
+    }
+    #ok{
+        top: 75%;
+        left: 40%;
+        height: 24px;
+    }
+
+}
