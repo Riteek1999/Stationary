@@ -8,14 +8,14 @@ I have put in lots of efforts to give my website a quite good user interface. As
 
 Development Tools
 
- We have used Visual Studio Code as our text editor
- Language: CSS, HTML, JavaScript, PHP, SQL
- We have used Apache server (local host: XAMPP)
- Frameworks and libraries: Bootstrap and font awesome.
+* We have used Visual Studio Code as our text editor
+* Language: CSS, HTML, JavaScript, PHP, SQL
+* We have used Apache server (local host: XAMPP)
+* Frameworks and libraries: Bootstrap and font awesome.
  
 Features
 
- Secure login-logout (password encrypted)
- Fully Responsive
- User friendly
+* Secure login-logout (password encrypted)
+* Fully Responsive
+* User friendly
 
