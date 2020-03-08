@@ -1,4 +1,6 @@
-# Stationary
+# Stationary 
+![logo2](https://user-images.githubusercontent.com/56539752/76159138-5ed5e280-6143-11ea-898f-3df1874e6526.png)
+
 
 
 ### Introduction
